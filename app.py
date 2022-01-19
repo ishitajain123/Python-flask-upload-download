@@ -1,6 +1,6 @@
 from flask import Flask
 
-UPLOAD_FOLDER = '/home/niranth/Desktop/sockets/flask'
+UPLOAD_FOLDER = '/home/ishita/Desktop/sockets/flask'
 
 app = Flask(__name__)
 app.secret_key = "secret key"
